@@ -15,7 +15,6 @@ Pantry2Plate is a recipe recommendation platform designed to help users make the
 Pantry2Plate is your ultimate kitchen companion, turning your pantry into endless possibilities!
 
 ## Accessing the Website
-- Navigate to the following website to see the currently deployed product
 - https://pantry-2-plate.onrender.com/
 - Note: Render puts the website to sleep after 15 minutes of inactivity. Please wait for the website to redeploy; this may take around a minute or two
 
