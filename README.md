@@ -22,7 +22,7 @@ Pantry2Plate is your ultimate kitchen companion, turning your pantry into endles
 
 ## Running the Website
 - .env is not included in the codebase due to Google and cloudinary API keys being confidential
-- Install the needed libraries
+- Install the required packages in requirements.txt
 - Run runserver.py
 - The website will be running in port 3000
 
