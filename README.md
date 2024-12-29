@@ -13,3 +13,20 @@ Pantry2Plate is a recipe recommendation platform designed to help users make the
   - **Favorites**: Bookmark your go-to recipes.
 
 Pantry2Plate is your ultimate kitchen companion, turning your pantry into endless possibilities!
+
+## Accessing the Website
+Navigate to the following website to see the currently deployed product
+https://pantry-2-plate.onrender.com/
+Note: Render puts the website to sleep after 15 minutes of inactivity. Please wait for the website to redeploy; this may take around a minute or two
+
+## Running the Website
+- .env is not included in the codebase due to Google and cloudinary API keys being confidential
+- Install the needed libraries
+- Type in terminal "python runserver.py"
+- The website will be running in port 3000
+
+## Contributors
+- Niranjan Vijaya Krishnan
+- Kayla Xu
+- Sandy Zhang
+- Chaeyoung Lee
